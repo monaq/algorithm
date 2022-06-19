@@ -1,0 +1,26 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "Algorithms in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monaq/algorithm.git"
+  },
+  "keywords": [],
+  "author": "monaq kwon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monaq/algorithm/issues"
+  },
+  "homepage": "https://github.com/monaq/algorithm#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.2",
+    "jest": "^28.1.1",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
+}
